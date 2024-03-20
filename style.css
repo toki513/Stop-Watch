@@ -3,7 +3,7 @@
 } 
 .stopwatch{
     background-image:linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)), url(images/background.png);
-    width: 90%;
+    width: 95%;
     height: 30vh;
     max-width: 400px;
     background-position: center;
