@@ -10,7 +10,7 @@ body{
     color : white;
     cursor: pointer;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    margin-bottom: 10px;
+    margin-bottom: 11px;
 }
 #timeDisplay {
     font-size: 75px;
